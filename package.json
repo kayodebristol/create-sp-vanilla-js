@@ -1,0 +1,24 @@
+{
+  "name": "create-sp-vanilla-js",
+  "version": "1.0.2",
+  "description": "This package is a starter kit for vanilla JavaScript development, but is targeted at SharePoint 2013 development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SharePoint",
+    "2013",
+    "pnp"
+  ],
+  "author": "Kayode Bristol",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "shelljs": "^0.8.2"
+  },
+  "bin": {
+    "create-sp-vanilla-js": "index.js"
+  },
+  "devDependencies": {}
+}
