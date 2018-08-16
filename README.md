@@ -22,14 +22,18 @@ Once installed, use the cli to create a new project.
 create-sp-vanilla-js my-new-project-name
 ````
 
-*CD, into your project directory. Update your JavaScript in index.js. Html in index.html, the entry point for your solution, can also be used to set any global variables (handly when targeting CEWPs).
-*Execute, npm run proxy, then answer the interactive questions to configure the proxy connection to your SharePoint site. Ctrl-c to end task.
-*Execute, 
+* **CD, into your project directory. Update your JavaScript in index.js. Html in index.html, the entry point for your solution, can also be used to set any global variables (handly when targeting CEWPs).
+* **Execute, 
+````
+npm run proxy
+```` 
+then answer the interactive questions to configure the proxy connection to your SharePoint site. Ctrl-c to end task.
+* **Execute, 
 ````
 npm run dev 
 ````
 (uses concurrently), to start the proxy and dev server simultaneously
-*Develop interactively, with real SharePoint data. Enjoy!
+* **Develop interactively, with real SharePoint data. Enjoy!
 
 ### Prerequisites
 
