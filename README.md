@@ -1,7 +1,7 @@
 # create-sp-vanilla-js
 SharePoint Development Starter Kit
 
-Non-opinionated SharePoint 2013 starter kit for vanilla client-side Javascript development. 
+Non-opinionated SharePoint starter kit for vanilla client-side Javascript development. 
 This project uses [parcel](https://github.com/parcel-bundler/parcel), [sp-rest-proxy](https://github.com/koltyakov/sp-rest-proxy), [@pnp/sp](https://pnp.github.io/pnpjs/sp/), and [babel](https://github.com/babel/babel), among other packages. 
 
 Although your code with work with most modern browsers, the project was designed specifically to work on IE 10, as the SharePoint's default masterpage still targets IE 10 with a meta tag.  
