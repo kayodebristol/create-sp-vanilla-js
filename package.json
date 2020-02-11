@@ -1,6 +1,6 @@
 {
   "name": "create-sp-vanilla-js",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This package is a starter kit for vanilla JavaScript development, but is targeted at SharePoint 2013 development.",
   "main": "index.js",
   "scripts": {
